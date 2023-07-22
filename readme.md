@@ -16,11 +16,17 @@ Ans: npm manages packages it does not stand for the node package manager.
 Ans. Its a configuration for the npm.
 
 3. What are different type of bundler available?
-Ans. webpack, parsler, veet
+Ans. webpack, parcel, veet
 
 4. What is the difference between dev dependencies vs normal dependencies?
-Ans. dev dependencies will not go with the main bundle. 
+Ans. dev dependencies will not go with the prod bundle.
 
 5. What is package-lock.json?
-Ans. package-lock.json keep track of the exact version which we have installed 
+Ans. package-lock.json keep track of the exact version of package which we have installed 
+
+6. Why package-lock.json is useful?
+Ans. package-lock.json keep track of the exact version which we have installed.
+
+7. What are transitive dependencies?
+8. 
 
