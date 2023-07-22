@@ -28,5 +28,8 @@ Ans. package-lock.json keep track of the exact version of package which we have 
 Ans. package-lock.json keep track of the exact version which we have installed.
 
 7. What are transitive dependencies?
-8. 
+Ans. If u installed some package. The  dependencies required by the dependent package is called as transitive dependencies.
+
+8. How to run parcel?
+Ans. npx parcel index.html
 
