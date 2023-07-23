@@ -33,3 +33,7 @@ Ans. If u installed some package. The  dependencies required by the dependent pa
 8. How to run parcel?
 Ans. npx parcel index.html
 
+9. difference between npm vs npx
+Ans. npm: to install a package
+     npx: executing a package
+
