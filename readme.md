@@ -10,9 +10,13 @@ git push origin main
 
 -------------
 #####What is npm?
-Ans: npm manages packages it does not stand for the node package manager. 
+
+Ans: npm manages packages it does not stand for the node package manager.
+
+
 
 What is package.json
+
 Ans Its a configuration for the npm.
 
 What are the different type of bundler available?
