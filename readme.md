@@ -9,28 +9,28 @@ git push origin main
 
 
 -------------
-What is npm?
+#####What is npm?
 Ans: npm manages packages it does not stand for the node package manager. 
 
-3. What is package.json
-Ans. Its a configuration for the npm.
+What is package.json
+Ans Its a configuration for the npm.
 
-4. What are the different type of bundler available?
+What are the different type of bundler available?
 Ans. webpack, parcel, veet
 
-5. What is the difference between dev dependencies vs normal dependencies?
+What is the difference between dev dependencies vs normal dependencies?
 Ans. dev dependencies will not go with the prod bundle.
 
-6. What is package-lock.json and its uses?
-Ans. package-lock.json keep track of the exact version of the package which we have installed 
+What is package-lock.json and its uses?
+Ans package-lock.json keep track of the exact version of the package which we have installed 
 
-7. What are transitive dependencies?
-Ans. If u installed some package. The  dependencies required by the dependent package is called as transitive dependencies.
+What are transitive dependencies?
+Ans If u installed some package. The  dependencies required by the dependent package is called as transitive dependencies.
 
-8. How to run parcel?
-Ans. npx parcel index.html
+How to run parcel?
+Ans npx parcel index.html
 
-9. difference between npm vs npx
+What is difference between npm vs npx
 Ans. npm: to install a package
      npx: executing a package
 
